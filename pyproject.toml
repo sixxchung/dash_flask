@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "plotlydash_flask_tutorial"
+name = "dash_flask"
 version = "0.1.0"
 description = "Integrate Plotly Dash into your Flask applications."
 authors = ["Todd Birchard <toddbirchard@gmail.com>"]
